@@ -11,7 +11,7 @@ The original repository with the code is set to private due to copyright concern
 
 ## Result Preview
 
-In this section, some screenshots of the project results are displayed. Take a look at the Game Design Document at "AftershowSidequest/Game Design Document/Aftershow Sidequest GDD.pdf" for detailed information about the project. Currently, the GDD is only available in German, though.
+In this section, some screenshots of the project results are displayed. Take a look at the Game Design Document named "Aftershow Sidequest GDD.pdf" for detailed information about the project. Currently, the GDD is only available in German, though.
 
 ### Main Scene with Sally and some Enemies
 
