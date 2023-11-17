@@ -15,12 +15,12 @@ In this section, some screenshots of the project results are displayed. Take a l
 
 ### Main Scene with Sally and some Enemies
 
-![Anmerkung 2023-11-16 193632](https://github.com/mgagel/AftershowSidequest/assets/73076495/e2a3ff33-809b-454a-851b-8d44a2151d78)
+![Anmerkung 2023-11-16 193632](https://github.com/mgagel/aftershow-sidequest-public/assets/73076495/2a4973f3-63a9-4fef-86f0-1b9726d09b41)
 
 ### Sprite Iterations of the Main Character
 
-![Anmerkung 2023-11-16 194943](https://github.com/mgagel/AftershowSidequest/assets/73076495/15e38ec4-4f1a-4eb9-9179-73ee9942f132)
+![Anmerkung 2023-11-16 194943](https://github.com/mgagel/aftershow-sidequest-public/assets/73076495/216c0d1f-dd10-4128-ac48-d1692200285a)
 
 ### Aftershow Sidequest Logo
 
-![Anmerkung 2023-11-16 193203](https://github.com/mgagel/AftershowSidequest/assets/73076495/094339ca-fc46-4efa-b044-2d90a49a2484)
+![Anmerkung 2023-11-16 193203](https://github.com/mgagel/aftershow-sidequest-public/assets/73076495/0a998610-75e3-42be-87dc-7ca2082f2915)
